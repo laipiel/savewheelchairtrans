@@ -1,0 +1,17 @@
+/*
+Theme Name: SAVE Wheelchair Trans
+Theme URI: http://www.facebook.com/SaveWheelchairTrans
+Description: A theme specifically designed for SAVE Wheelchair Trans.
+Author: Youngki Chang
+Author URI: http://www.facebook.com/SaveWheelchairTrans
+Version: 1.0
+Tags: responsive, white, bootstrap
+
+License: Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
+License URI: http://creativecommons.org/licenses/by-sa/3.0/
+
+This is a theme specifically designed for SAVE Wheelchair Trans website.
+*/
+@import url('bootstrap/css/bootstrap.min.css');
+@import url('bootstrap/css/bootstrap-responsive.css');
+@import url('css/main.css');
